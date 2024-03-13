@@ -27,6 +27,8 @@ domain: joshcampbell191.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://joshcampbell191.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
+show_excerpts: true # set to true to show excerpts on the homepage
+
 # Bootstrap date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 bootstrap:
